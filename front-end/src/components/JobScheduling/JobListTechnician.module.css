@@ -1,0 +1,17 @@
+.card {
+    width: 300px; /* Set the desired width */
+    padding: 20px; /* Add padding */
+    margin: 10px; /* Add margin */
+    background-color: #fff; /* Background color */
+    border: 1px solid #ddd; /* Border */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow */
+    display: inline-block; /* Ensure cards are displayed inline */
+    vertical-align: top; /* Align items at the top */
+  }
+
+  .cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
