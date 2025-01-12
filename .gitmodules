@@ -1,0 +1,3 @@
+[submodule "back-end/back-end/DernSupportBackEnd"]
+	path = back-end/back-end/DernSupportBackEnd
+	url = https://github.com/99Muhammad/DernSupport.git
